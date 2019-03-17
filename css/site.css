@@ -1,0 +1,33 @@
+
+
+.logo {
+	font-weight: 300;
+	padding-left: 10px;
+}
+
+.thin-text {
+	font-weight: 300;
+	background-color: rgba(96, 125, 139, .4);
+	padding: 40px;
+	border-radius: 10px;
+}
+
+/*site.css stylesheet*/
+/*section-header is the class for the  "Selected Works" header*/
+/*<h2 class="section-header">Selected Works</h2>*/
+
+.section-header {
+	font-weight: 300;
+}
+
+
+
+
+
+.cta {
+	font-weight: 300;
+	text-shadow: 1px 1px #000;
+}
+.contact-form {
+	padding-top:40px;
+}
